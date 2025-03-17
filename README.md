@@ -6,7 +6,7 @@ Assumed Windows 11 Home or better
 1. Click Code then Download zip
 2. Unzip the zip and the zipped zip into C:\VS2022_Installer
 3. Make sure IIS is installed
-4. Double Click GetVisualStudio.bat in C:\VS2022_Installer (Path is important)
+4. Right Click GetVisualStudio.bat and run as Admin. in C:\VS2022_Installer (Path is important, make sure the files are in the C:\VS2022_Installer path) 
 5. Goto http://localhost
 6. Click to install (downloads PS1 file)
 7. Click show in folder
