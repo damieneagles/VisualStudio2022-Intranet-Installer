@@ -1,6 +1,6 @@
 # VS-Intranet-Installer
 Offline installation media builder for an intranet install of the Microsoft Visual Studio 2022 Product
-Instructions to do an intranet install of Micsrosoft Visual Studio 2022
+Instructions to do an intranet install of Microsoft Visual Studio 2022
 
 Assumed Windows 11 Home or better
 1. Click Code then Download zip
